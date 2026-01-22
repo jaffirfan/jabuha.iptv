@@ -1,0 +1,25 @@
+#EXTM3U
+#EXTINF:-1,Tamil Vision
+http://live.tamilvision.tv:8081/TVI/HD/playlist.m3u8
+#EXTINF:-1,Sooriyan TV
+http://198.50.218.239:1935/sooriyantv/sooriyantv/playlist.m3u8
+#EXTINF:-1,Makkal TV
+http://5k8q87azdy4v-hls-live.wmncdn.net/MAKKAL/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8
+#EXTINF:-1,Kalaignar TV
+https://segment.yuppcdn.net/240122/kalaignartv/playlist.m3u8
+#EXTINF:-1,Raj TV
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/2839e3d1e0f84a2e821c1708d5fdfdf0/index.m3u8
+#EXTINF:-1,Polimer News
+https://yuppmedtaorire.akamaized.net/.../polimernews/playlist.m3u8
+#EXTINF:-1,Isai Aruvi
+https://segment.yuppcdn.net/140622/isaiaruvi/playlist.m3u
+#EXTINF:-1,Puthiyathalaimurai TV
+https://www.puthiyathalaimurai.com/live/playlist.m3u8
+#EXTINF:-1,News18 Tamil Nadu
+https://www.news18.com/tamilnadu/live.m3u8
+#EXTINF:-1,Jaya TV
+https://www.jayatvnetwork.com/live/playlist.m3u8
+#EXTINF:-1,Vasanth TV
+https://vasanthtv.in/live/playlist.m3u8
+#EXTINF:-1,Chithiram TV
+https://www.chithiramtv.com/live/playlist.m3u8
