@@ -10,6 +10,7 @@ If any channel owner has issues, please contact for removal.
 
 ## 📺 Usage
 Use this M3U8 link in any IPTV player like:
+
 - VLC
 - Tivimate
 - Perfect Player
@@ -22,3 +23,9 @@ Use this M3U8 link in any IPTV player like:
 ## ✅ Allowed
 - Free public streams
 - Educational content
+
+- ## 🛡 Copyright Notice
+
+All streams are publicly available on the internet.
+This repository does not host any video content.
+For educational purpose only.
